@@ -1,2 +1,1 @@
-# Git Practice
-Giới thiệu: Tôi là **NguyenThuyQuynh**, MSSV <222776>.
+Đây là README từ nhánh main.
