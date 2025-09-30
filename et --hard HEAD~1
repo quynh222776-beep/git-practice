@@ -1,0 +1,27 @@
+*   [33m2004dd9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Merge branch 'feature-branch'
+[31m|[m[32m\[m  
+[31m|[m * [33m3a8a558[m[33m ([m[1;31morigin/feature-branch[m[33m, [m[1;32mfeature-branch[m[33m)[m Add feature.md
+[31m|[m * [33me64e0e5[m[33m ([m[1;33mtag: [m[1;33mv2.0[m[33m, [m[1;32mpractice-branch[m[33m, [m[1;32mbranch-from-v2[m[33m)[m Update version 2.0
+[31m|[m * [33m6adb0f5[m[33m ([m[1;33mtag: [m[1;33mv1.0[m[33m)[m Add version 1.0
+[31m|[m * [33m88612c5[m Add line 3
+[31m|[m * [33mbf7a3b2[m Add line 2
+[31m|[m * [33m4517db8[m Add line 1
+[31m|[m * [33md9ce9c0[m Restore readme changes
+[31m|[m * [33m9b8e92d[m[33m ([m[1;31morigin/practice-branch[m[33m)[m Restore readme changes
+[31m|[m * [33me4a3ceb[m Add note.md
+[31m|[m * [33m281665c[m Add practice2 and practice3
+[31m|[m * [33m3e6edb7[m Add practice1
+[31m|[m * [33m0e8ba82[m[33m ([m[1;31morigin/user[m[33m, [m[1;32muser[m[33m)[m Add user1.txt with student info
+* [32m|[m [33m13452cd[m Add main.md
+[32m|[m[32m/[m  
+* [33m0619072[m[33m ([m[1;31morigin/main[m[33m)[m Add .gitignore to exclude logs
+* [33m41dc7a8[m Update README from main
+*   [33m03a8897[m Merge branch 'add-info'
+[33m|[m[34m\[m  
+[33m|[m * [33m7c96e50[m Add personal info
+[33m|[m[33m/[m  
+* [33m334f72a[m Add profile.txt and added.txt
+* [33mf691108[m Update README.md
+* [33m78fa79e[m Update README.md
+* [33m41a6ffb[m Update README.md
+* [33m3cc051d[m Add README with personal info
